@@ -1,0 +1,45 @@
+.container {
+    margin: auto;
+    margin-top: 200px;
+    width: 50%;
+    border: solid 10px green;
+    background-color: hotpink;
+}
+.title {
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.close {
+   position:relative;
+    margin-left: 350px;
+    margin-bottom: 30px;
+background-color: #04AA6D;
+  border: solid 5px white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    
+}
+a:link {
+  color: white;
+  background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+    text-decoration: underline;}
+
+.message {
+    margin: auto;
+    
+}
+#mes {
+    color: white;
+}
